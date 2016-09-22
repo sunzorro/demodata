@@ -1,4 +1,4 @@
-let data =[
+[
   {"index":1,"biaoti":"今天天气非常好","neirong":"今天天气不错，我们去旅游吧","url":"a"},
   {"index":2,"biaoti":"今天天气非常好","neirong":"今天天气不错，我们去旅游吧","url":"b"},
   {"index":3,"biaoti":"今天天气非常好","neirong":"今天天气不错，我们去旅游吧","url":"c"},
